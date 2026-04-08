@@ -105,3 +105,12 @@ pytorch/
 │   └── transfer_learning.py
 └── 13_save_load/
     └── save_load_model.py
+- RNNs
+- LSTMs
+- training utilities
+- metrics
+- mixed precision
+- transformer basics
+- autoencoders
+- GAN basics
+- segmentation basics
